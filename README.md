@@ -41,3 +41,4 @@ I used the Microsoft Edge browser but on any browser you will want to edit the s
 
 # Resources
 [telekom-security/tpotce: 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝](https://github.com/telekom-security/tpotce)
+https://aws.amazon.com/free/?trk=7d475c59-1af1-47f8-b4c7-88482cbd0e73&sc_channel=ps&s_kwcid=AL!4422!10!71193612981017!71194138969792&ef_id=69c8fd49528014e9d35c9a1e657a443a:G:s&msclkid=69c8fd49528014e9d35c9a1e657a443a&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
